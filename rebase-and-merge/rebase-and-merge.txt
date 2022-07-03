@@ -1,1 +1,3 @@
 # Rebase and merge
+
+Rebase and merge will add one or more commits on top of the existing commits on the base branch. It will not add a merge commit.
