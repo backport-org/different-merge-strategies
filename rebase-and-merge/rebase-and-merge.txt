@@ -1,3 +1,5 @@
 # Rebase and merge
 
 Rebase and merge will add one or more commits on top of the existing commits on the base branch. It will not add a merge commit.
+
+Downside: Github's API doesn't provide any insights into which merge strategy was used to merge a PR, or which commits were merged into the base branch.
